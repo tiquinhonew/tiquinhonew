@@ -1,10 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8939E4&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8939E4&height=150&text=Tiquinho&fontSize=35&fontColor=391F5A&animation=fadeIn&fontAlign=90&fontAlignY=20&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1500&color=8939E4&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'M+DOUGLAS+MORAES;I'M+FROM+BRAZIL+-+SP;CURRENTLY%2C+I+AM+STUDYING+BACKEND;I'M+EXCITED+TO+LEARN+MORE+ABOUT+TECHNOLOGY+;WELCOME+TO+MY+GITHUB+PROFILE+%E2%9C%8C%F0%9F%8F%BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1500&color=8939E4&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'M+DOUGLAS+MORAES;I'M+FROM+BRAZIL+-+SP;CURRENTLY%2C+I+AM+STUDYING+BACKEND;I'M+EXCITED+TO+LEARN+MORE+ABOUT+TECHNOLOGY+;WELCOME+TO+MY+GITHUB+PROFILE+%E2%9C%8C%F0%9F%8F%BD)](https://www.linkedin.com/in/douglasam)
+
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiquinhonew&show_icons=true&count_private=true&hide_border=true&title_color=8939E4&icon_color=8939E4&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiquinhonew&layout=compact&hide_border=true&title_color=8939E4&text_color=8939E4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiquinhonew&show_icons=true&theme=tokyonight" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiquinhonew&layout=compact&theme=tokyonight&langs_count=10" />
 </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tiquinhonew&theme=redical)
