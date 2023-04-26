@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8939E4&height=150&text=Tiquinho&fontSize=35&fontColor=391F5A&animation=fadeIn&fontAlign=90&fontAlignY=20&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8939E4&height=150&text=&fontSize=35&fontColor=391F5A&animation=fadeIn&fontAlign=90&fontAlignY=20&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1500&color=8939E4&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'M+DOUGLAS+MORAES;I'M+FROM+BRAZIL+-+SP;CURRENTLY%2C+I+AM+STUDYING+BACKEND;I'M+EXCITED+TO+LEARN+MORE+ABOUT+TECHNOLOGY+;WELCOME+TO+MY+GITHUB+PROFILE+%E2%9C%8C%F0%9F%8F%BD)](https://www.linkedin.com/in/douglasam)
 
