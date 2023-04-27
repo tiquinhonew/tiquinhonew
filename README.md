@@ -39,6 +39,6 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)
 
 ---
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tiquinhonew.tiquinhonew&left_color=purple&right_color=blue&left_text=Visitas)
+![Visitas](https://img.shields.io/endpoint?logo=datadog&style=for-the-badge&url=https://badgecountvisitors.onrender.com/badge?color=8939E4)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8939E4&height=120&section=footer"/>
