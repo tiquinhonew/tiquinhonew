@@ -19,6 +19,8 @@
   </div>
 </a>
 
+[![](https://i.imgur.com/waxVImv.png)](#)
+
 ## Main Skills
 
 [![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=coffeescript)](#)
@@ -72,7 +74,8 @@
 [![Apachekafka](https://img.shields.io/badge/-Apache%20kafka-0D1117?style=for-the-badge&logo=apachekafka)](#)
 [![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&textColor=0D1117)](#)
 
----
+[![](https://i.imgur.com/waxVImv.png)](#)
+
 [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=tiquinhonew.tiquinhonew&format=true)](#)
 
 <a href="#">
