@@ -14,34 +14,63 @@
 [![Douglas' GitHub Activity Chart](https://github-readme-activity-graph.vercel.app/graph?username=tiquinhonew&theme=redical)](#)
 
 <a href="#">
-  <p align="center">
+  <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=tiquinhonew&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-  </p>
-</a> 
+  </div>
+</a>
 
 ## Main Skills
-[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)](#)
-[![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)](#)
-[![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)](#)
-[![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)](#)
+
+[![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=coffeescript)](#)
+[![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring)](#)
+[![Maven](https://img.shields.io/badge/-Maven-0D1117?style=for-the-badge&logo=apachemaven)](#)
+[![Gradle](https://img.shields.io/badge/-Gradle-0D1117?style=for-the-badge&logo=gradle)](#)
+
+[![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql)](#)
+[![Postgresql](https://img.shields.io/badge/-Postgre-0D1117?style=for-the-badge&logo=postgresql)](#)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb)](#)
+[![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=Redis)](#)
+
+[![Html5](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=html5)](#)
+[![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)](#)
+[![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react)](#)
+[![Angular.js](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=B52E31)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)](#)
+[![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js)](#)
 
 ## Tools
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)](#)
-[![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)](#)
-[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)](#)
-[![MacOs](https://img.shields.io/badge/-mac%20os-0D1117?style=for-the-badge&logo=apple&labelColor=0D1117)](#)
-[![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)](#)
-[![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)](#)
+
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](#)
+[![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-0D1117?style=for-the-badge&logo=intellijidea)](#)
+
+[![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)](#)
+[![Gitlab](https://img.shields.io/badge/-gitlab-0D1117?style=for-the-badge&logo=gitlab)](#)
+[![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker)](#)
+
+[![MacOs](https://img.shields.io/badge/-mac%20os-0D1117?style=for-the-badge&logo=apple)](#)
+[![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows)](#)
+[![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=10B981)](#)
 
 ## Other Knowledge
-[![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)](#)
-[![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)](#)
-[![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)](#)
-[![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)](#)
+
+[![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws)](#)
+[![S3](https://img.shields.io/badge/-S3-0D1117?style=for-the-badge&logo=amazons3)](#)
+[![Lambda](https://img.shields.io/badge/-Lambda-0D1117?style=for-the-badge&logo=awslambda)](#)
+[![SQS](https://img.shields.io/badge/-SQS-0D1117?style=for-the-badge&logo=amazonsqs)](#)
+[![EC2](https://img.shields.io/badge/-EC2-0D1117?style=for-the-badge&logo=amazonec2)](#)
+
+[![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=for-the-badge&logo=terraform)](#)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes)](#)
+
+[![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python)](#)
+[![Tailwindcss](https://img.shields.io/badge/-tailwind-0D1117?style=for-the-badge&logo=tailwindcss)](#)
+[![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap)](#)
+[![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma)](#)
   
 ## Studying In This Moment
-[![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)](#)
-[![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)](#)
+[![Apachekafka](https://img.shields.io/badge/-Apache%20kafka-0D1117?style=for-the-badge&logo=apachekafka)](#)
+[![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&textColor=0D1117)](#)
 
 ---
 [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=tiquinhonew.tiquinhonew&format=true)](#)
