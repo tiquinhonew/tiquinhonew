@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8939E4&height=150&text=&fontSize=35&fontColor=391F5A&animation=fadeIn&fontAlign=90&fontAlignY=20&section=header"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=8000&color=7330BF&random=true&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BD;Here+is+a+little+bit+of+my+programming+journey+)](https://www.linkedin.com/in/douglasam)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=8000&color=7330BF&random=true&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BD;Here+is+a+little+bit+of+my+programming+journey+%F0%9F%9A%80)](https://www.linkedin.com/in/douglasam)
 
 <a href="#">
   <div align="center">  
