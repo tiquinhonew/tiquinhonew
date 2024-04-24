@@ -64,6 +64,9 @@
 
 [![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=for-the-badge&logo=terraform)](#)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes)](#)
+[![Rancher](https://img.shields.io/badge/-Rancher-0D1117?style=for-the-badge&logo=rancher&logoColor=0075A8)](#)
+[![Argo CD](https://img.shields.io/badge/-Argo%20CD-0D1117?style=for-the-badge&logo=argo&logoColor=)](#)
+
 
 [![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python)](#)
 [![Tailwindcss](https://img.shields.io/badge/-tailwind-0D1117?style=for-the-badge&logo=tailwindcss)](#)
