@@ -4,16 +4,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=8000&color=7330BF&random=true&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BD;Here+is+a+little+bit+of+my+programming+journey+%F0%9F%9A%80)](https://www.linkedin.com/in/douglasam)
 
-<a href="#">
+<a href="">
   <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiquinhonew&show_icons=true&theme=tokyonight" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiquinhonew&layout=compact&theme=tokyonight&langs_count=10" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiquinhonew&show_icons=true&theme=tokyonight"/> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiquinhonew&layout=compact&theme=tokyonight&langs_count=10"/>
+    <br>
+    <br>
   </div>
 </a>
 
 [![Douglas' GitHub Activity Chart](https://github-readme-activity-graph.vercel.app/graph?username=tiquinhonew&theme=redical)](#)
 
-<a href="#">
+<a href="">
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=tiquinhonew&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   </div>
