@@ -3,18 +3,20 @@
 </a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=8000&color=7330BF&random=true&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BD;Here+is+a+little+bit+of+my+programming+journey+%F0%9F%9A%80)](https://www.linkedin.com/in/douglasam)
-
-🙋🏻‍♂️ Olá!
-
-💡 Apaixonado por tecnologia desde pequeno, encontrei minha paixão por desenvolvimento de software em uma aula de programação na minha graduação em Rede de Computadores, logo depois me graduei em Análise e Desenvolvimento de Software. Sempre buscando aprender e evoluir, continuo estudando e explorando novas áreas da tecnologia.
-
-🏃 Nas horas vagas, você me encontra praticando esportes, seja correndo uma meia maratona ou jogando uma partida de futebol. No mundo dos games, sou um veterano do Counter Strike, tendo começado minha jornada nos tempos das lan houses.
-
-🛠️ Gosto muito do desenvolvimento backend com Java e Spring, sou fascinado por clean architecture e conceitos de orientação a objetos. Além disso, tenho interesse em DevOps e adoro trabalhar com ferramentas como Terraform, Kubernetes, Rancher e Argo CD, em ambientes de nuvem, como AWS.
-
-💻 Já trabalhei em projetos frontend com Angular e React, enfrentando desafios com componentes complexos.
-
-✨ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer. ✨
+    
+<div style="display: flex;">
+  <div style="flex: 60%; padding-right: 10px;">
+    <p>🙋🏻‍♂️ Olá!</p>
+    <p>💡 Apaixonado por tecnologia desde pequeno, encontrei minha paixão por desenvolvimento de software em uma aula de programação na minha graduação em Rede de Computadores, logo depois me graduei em Análise e Desenvolvimento de Software. Sempre buscando aprender e         evoluir, continuo estudando e explorando novas áreas da tecnologia.</p>
+    <p>🏃 Nas horas vagas, você me encontra praticando esportes, seja correndo uma meia maratona ou jogando uma partida de futebol. No mundo dos games, sou um veterano do Counter Strike, tendo começado minha jornada nos tempos das lan houses.</p>
+    <p>🛠️ Gosto muito do desenvolvimento backend com Java e Spring, sou fascinado por clean architecture e conceitos de orientação a objetos. Além disso, tenho interesse em DevOps e adoro trabalhar com ferramentas como Terraform, Kubernetes, Rancher e Argo CD, em ambientes de nuvem, como AWS.</p>
+    <p>💻 Já trabalhei em projetos frontend com Angular e React, enfrentando desafios com componentes complexos.</p>
+    <p>✨ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer. ✨</p>
+  </div>
+  <div style="flex: 40%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiquinhonew&layout=compact&theme=tokyonight&langs_count=10"/>
+  </div>
+</div>
 
 [![](https://i.imgur.com/waxVImv.png)](#)
 
