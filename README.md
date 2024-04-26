@@ -4,26 +4,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=8000&color=7330BF&random=true&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BD;Here+is+a+little+bit+of+my+programming+journey+%F0%9F%9A%80)](https://www.linkedin.com/in/douglasam)
 
-<a href="">
-  <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiquinhonew&show_icons=true&theme=tokyonight"/> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiquinhonew&layout=compact&theme=tokyonight&langs_count=10"/>
-    <br>
-    <br>
-  </div>
-</a>
+🙋🏻‍♂️ Olá!
 
-[![Douglas' GitHub Activity Chart](https://github-readme-activity-graph.vercel.app/graph?username=tiquinhonew&theme=redical)](#)
+💡 Apaixonado por tecnologia desde pequeno, encontrei minha paixão por desenvolvimento de software em uma aula de programação na minha graduação em Rede de Computadores, logo depois me graduei em Análise e Desenvolvimento de Software. Sempre buscando aprender e evoluir, continuo estudando e explorando novas áreas da tecnologia.
 
-<a href="">
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=tiquinhonew&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-  </div>
-</a>
+🏃 Nas horas vagas, você me encontra praticando esportes, seja correndo uma meia maratona ou jogando uma partida de futebol. No mundo dos games, sou um veterano do Counter Strike, tendo começado minha jornada nos tempos das lan houses.
+
+🛠️ Gosto muito do desenvolvimento backend com Java e Spring, sou fascinado por clean architecture e conceitos de orientação a objetos. Além disso, tenho interesse em DevOps e adoro trabalhar com ferramentas como Terraform, Kubernetes, Rancher e Argo CD, em ambientes de nuvem, como AWS.
+
+💻 Já trabalhei em projetos frontend com Angular e React, enfrentando desafios com componentes complexos.
+
+✨ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer. ✨
 
 [![](https://i.imgur.com/waxVImv.png)](#)
 
-## Main Skills
+## Principais Skills
 
 [![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=coffeescript)](#)
 [![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring)](#)
@@ -42,7 +37,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)](#)
 [![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js)](#)
 
-## Tools
+## Ferramentas
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](#)
 [![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-0D1117?style=for-the-badge&logo=intellijidea)](#)
@@ -56,7 +51,7 @@
 [![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows)](#)
 [![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=10B981)](#)
 
-## Other Knowledge
+## Conhecimentos
 
 [![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws)](#)
 [![S3](https://img.shields.io/badge/-S3-0D1117?style=for-the-badge&logo=amazons3)](#)
@@ -76,7 +71,7 @@
 [![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap)](#)
 [![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma)](#)
   
-## Studying In This Moment
+## Estudando no momento
 [![Apachekafka](https://img.shields.io/badge/-Apache%20kafka-0D1117?style=for-the-badge&logo=apachekafka)](#)
 [![Spring Security](https://img.shields.io/badge/-Spring%20Security-0D1117?style=for-the-badge&logo=springsecurity)](#)
 [![Springboot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=springboot)](#)
@@ -84,7 +79,7 @@
 
 [![](https://i.imgur.com/waxVImv.png)](#)
 
-[![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=tiquinhonew.tiquinhonew&format=true)](#)
+[![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=tiquinhonew.tiquinhonew&format=false&left_color=red&right_color=green&left_text=visitante)](#)
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8939E4&height=120&section=footer"/>
