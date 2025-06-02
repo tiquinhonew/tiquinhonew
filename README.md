@@ -73,6 +73,7 @@
   
 ## Estudando no momento
 [![Apachekafka](https://img.shields.io/badge/-Apache%20kafka-0D1117?style=for-the-badge&logo=apachekafka)](#)
+[![CNOE](https://img.shields.io/badge/-cncf%20kafka-0D1117?style=for-the-badge&logo=apachekafka)](#)
 [![Spring Security](https://img.shields.io/badge/-Spring%20Security-0D1117?style=for-the-badge&logo=springsecurity)](#)
 [![Springboot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=springboot)](#)
 [![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&textColor=0D1117)](#)
